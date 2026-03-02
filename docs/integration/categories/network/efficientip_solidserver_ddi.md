@@ -22,6 +22,7 @@ This integration supports the following versions:
 This integration supports the following events:
 
 - DNS logs from named
+- DHCP logs
 
 ## Configure
 
